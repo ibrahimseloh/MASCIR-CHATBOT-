@@ -10,10 +10,9 @@ openai.api_key = 'WRITE_Your_OPENAI_Key'
 client = openai.OpenAI(api_key=openai.api_key)
 
 # Informations de connexion à la base de données PostgreSQL
-dbname = "Chat-Mascir"
+dbname = "Write your database Name"
 user = "postgres"
-password = "SELOHeco1"
-host = "localhost"
+password = "Write your database password"
 
 # Connexion à la base de données PostgreSQL
 try:
