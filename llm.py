@@ -6,7 +6,7 @@ import psycopg2
 from datetime import datetime
 
 # Clé d'API OpenAI
-openai.api_key = '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'
+openai.api_key = 'WRITE_Your_OPENAI_Key'
 client = openai.OpenAI(api_key=openai.api_key)
 
 # Informations de connexion à la base de données PostgreSQL
