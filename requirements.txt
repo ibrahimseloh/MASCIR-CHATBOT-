@@ -1,0 +1,5 @@
+openai
+SpeechRecognition
+pygame
+Pyaudio
+psycopg2-binary
